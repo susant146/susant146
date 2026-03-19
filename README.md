@@ -33,11 +33,11 @@ I am a **Senior Research Scientist at DrongoAI**, where I bridge the gap between
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Your Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=susant146E&show_icons=true&theme=radical" alt="Your Stats" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](YOUR_SCHOLAR_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/susant-panigrahi-b79b1396))
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([YOUR_SCHOLAR_URL](https://scholar.google.co.in/citations?user=1MjsFuUAAAAJ&hl=en))
