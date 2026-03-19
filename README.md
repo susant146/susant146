@@ -39,5 +39,5 @@ I am a **Senior Research Scientist at DrongoAI**, where I bridge the gap between
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/susant-panigrahi-b79b1396])
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.co.in/citations?user=1MjsFuUAAAAJ&hl=en])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susant-panigrahi-b79b1396)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.in/citations?user=1MjsFuUAAAAJ&hl=en)
