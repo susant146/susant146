@@ -25,7 +25,7 @@ I am a **Senior Research Scientist at DrongoAI**, where I bridge the gap between
 * **Medical Imaging:** MRI Reconstruction, CT Denoising, and Radiographic Analysis.
 * **Core Math:** Deep Learning for Inverse Problems, Optimization, and Signal Processing.
 
-> **Research Philosophy:** > I aim to recover high-fidelity latent images $x$ from noisy or undersampled observations $y$ by modeling:
+> **Research Philosophy:** I aim to recover high-fidelity latent images $x$ from noisy or undersampled observations $y$ by modeling:
 > $$y = \mathcal{A}(x) + \eta$$
 > where $\mathcal{A}$ represents the forward imaging operator and $\eta$ is the acquisition noise.
 
